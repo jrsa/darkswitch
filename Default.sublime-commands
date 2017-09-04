@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "DarkSwitch: Toggle Themes",
+        "command": "dark_switch"
+    },
+    {
+        "caption": "DarkSwitch: Edit Settings",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/darkswitch.sublime-settings",
+        },
+    }
+]
