@@ -9,5 +9,13 @@
         "args": {
             "file": "${packages}/User/darkswitch.sublime-settings",
         },
+    },
+    {
+        "caption": "DarkSwitch: Set Current Theme as Dark Theme",
+        "command": "set_dark"
+    },
+    {
+        "caption": "DarkSwitch: Set Current Theme as Light Theme",
+        "command": "set_light"
     }
 ]

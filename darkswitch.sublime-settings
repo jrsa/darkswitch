@@ -1,8 +1,6 @@
 {
-	"dark_color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Carbonight.tmTheme",
+	"dark_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"dark_theme": "Soda Dark 3.sublime-theme",
-	"light_color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Active4D.tmTheme",
-	"light_theme": "Soda Light 3.sublime-theme",
-	"pt_dark_color_scheme": "Packages/PlainTasks/tasks-dark.hidden-tmTheme",
-	"pt_light_color_scheme": "Packages/PlainTasks/tasks-gray.hidden-tmTheme"
+	"light_color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+	"light_theme": "Soda Light 3.sublime-theme"
 }
