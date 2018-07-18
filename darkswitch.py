@@ -27,6 +27,8 @@ class DarkSwitchCommand(sublime_plugin.ApplicationCommand):
       darkscheme = plugin_settings().get("dark_color_scheme")
       user_settings().set("color_scheme", darkscheme)
 
+    flush_settings()
+
 
 class SetDarkCommand(sublime_plugin.ApplicationCommand):
   def __init__(self):
